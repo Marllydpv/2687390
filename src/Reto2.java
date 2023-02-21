@@ -1,4 +1,4 @@
-productos
+
 
 import java.util.Scanner;
 
@@ -20,4 +20,5 @@ public class Reto2{
 
         
         lectura.close();
+}
 }

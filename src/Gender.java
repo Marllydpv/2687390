@@ -27,6 +27,7 @@ public class Gender {
         }
         System.out.println(" la cantidad de hombres es de "+ hombre);
         System.out.println(" la cantidad de mujeres es de "+mujer);
+        lectura.close();
     }
 }
 

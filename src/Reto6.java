@@ -1,6 +1,6 @@
 import java.util.concurrent.ExecutionException;
 
-public class reto6 {
+public class Reto6 {
     public static void main(String[] args) throws ExecutionException {
         System.out.println(" Craps. apuesta a un solo tiro de este juego se lanza dis dados , se gana si se obtiene un lanzamiento con:  ");
         System.out.println(" un par de unos en los dados  ");

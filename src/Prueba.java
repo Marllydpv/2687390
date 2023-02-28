@@ -9,5 +9,6 @@ public class Prueba {
         System.out.println("digite la cantidad del producto");
         cantidad=lectura.nextInt();
     }
+    lectura.close();
     }
 }

@@ -6,10 +6,11 @@ public class Reto {
         int temperatura, resultado;
 
         System.out.println("ingrese los grados fahrenheit");
-        temperatura = lectura.nextInt();
+    temperatura
 
         resultado = ((32 - 32) * 5 / 9);
         System.out.println("el numero en centigrados es" + resultado);
+        lectura.close();
 
     }
 
